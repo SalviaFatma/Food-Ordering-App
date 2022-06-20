@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/HP/AndroidStudioProjects/Zaika2/app/src/main/res/drawable-anydpi/ic_current_user.xml" value="0.1045" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/Zaika2/app/src/main/res/font/aclonica.xml" value="0.18802083333333333" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/Zaika2/app/src/main/res/layout/activity_cart.xml" value="0.1578125" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/Zaika2/app/src/main/res/layout/activity_dashboard.xml" value="0.1578125" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/Zaika2/app/src/main/res/layout/activity_login_register.xml" value="0.1578125" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/Zaika2/app/src/main/res/layout/activity_order_history.xml" value="0.1578125" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/Zaika2/app/src/main/res/layout/activity_order_placed.xml" value="0.1578125" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/Zaika2/app/src/main/res/layout/activity_profile.xml" value="0.1578125" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/Zaika2/app/src/main/res/layout/activity_restaurant_menu.xml" value="0.1578125" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/Zaika2/app/src/main/res/layout/activity_splash.xml" value="0.14666666666666667" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/Zaika2/app/src/main/res/layout/cart_recycler_view_single_row.xml" value="0.1578125" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/Zaika2/app/src/main/res/layout/dashboard_recycler_view_single_row.xml" value="0.1578125" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/Zaika2/app/src/main/res/layout/drawer_header.xml" value="0.1578125" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/Zaika2/app/src/main/res/layout/fragment_dashboard.xml" value="0.1578125" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/Zaika2/app/src/main/res/layout/fragment_faqs.xml" value="0.1578125" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/Zaika2/app/src/main/res/layout/fragment_favorite_restaurant.xml" value="0.1578125" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/Zaika2/app/src/main/res/layout/fragment_forgot_password.xml" value="0.1578125" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/Zaika2/app/src/main/res/layout/fragment_forgot_password_input.xml" value="0.1578125" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/Zaika2/app/src/main/res/layout/fragment_login.xml" value="0.1578125" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/Zaika2/app/src/main/res/layout/fragment_profile.xml" value="0.1578125" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/Zaika2/app/src/main/res/layout/fragment_register.xml" value="0.1578125" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/Zaika2/app/src/main/res/layout/order_history_recycler_view_single_row.xml" value="0.1578125" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/Zaika2/app/src/main/res/layout/restaurant_menu_recycler_view_single_row.xml" value="0.1578125" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/Zaika2/app/src/main/res/layout/sort_radio_button.xml" value="0.1578125" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/Zaika2/app/src/main/res/menu/drawer_menu.xml" value="0.1578125" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/Zaika2/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/Zaika2/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
